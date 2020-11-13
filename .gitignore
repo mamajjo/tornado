@@ -1,0 +1,5 @@
+.venv/
+venv/
+projects/
+settings.json
+**/__pycache__/**
