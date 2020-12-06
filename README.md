@@ -20,9 +20,6 @@ Now your workspace is prepared. You may run the program with:
 
 
 ### Used datasets: 
-Airlines:
-> https://sourceforge.net/projects/moa-datastream/files/Datasets/Classification/airlines.arff.zip/download
-
 elecNormNew.arff -> The dataset holds information of the Australian New South Wales Electricity Market:
 > https://moa.cms.waikato.ac.nz/datasets/
 
